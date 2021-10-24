@@ -1,0 +1,23 @@
+{
+  "name": "datalogger_time",
+  "version": "1.0.0",
+  "description": "f4167c21e8558e8e2a1dc5dc8fe705a4f84d675e ; }",
+  "main": "server-fileWriter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhuh3226/DataLogger_Time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhuh3226/DataLogger_Time/issues"
+  },
+  "homepage": "https://github.com/jhuh3226/DataLogger_Time#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
